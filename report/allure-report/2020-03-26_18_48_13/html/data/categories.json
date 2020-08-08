@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'x' in 'hello'",
+      "children" : [ {
+        "name" : "test_allure.test_02",
+        "uid" : "e280fd83f9b087fa",
+        "parentUid" : "4740fa933221ceb7ee9253dfe68d4cb7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1585219693638,
+          "stop" : 1585219693708,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4740fa933221ceb7ee9253dfe68d4cb7"
+    }, {
+      "name" : "AssertionError: assert 'success' == 'failed'\n  - success\n  + failed",
+      "children" : [ {
+        "name" : "test_buycar.TestShoppingTrolley.test_add_shopping_trolley",
+        "uid" : "f0d90205b12e6790",
+        "parentUid" : "0ca55b85b8d2a39baedc01d24f52900a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1585219695263,
+          "stop" : 1585219695271,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ca55b85b8d2a39baedc01d24f52900a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

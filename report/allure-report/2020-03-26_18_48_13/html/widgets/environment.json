@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "47.96.173.133:8080" ],
+  "name" : "hostname"
+}, {
+  "values" : [ "debug" ],
+  "name" : "environment"
+}, {
+  "values" : [ "micher" ],
+  "name" : "tester"
+} ]

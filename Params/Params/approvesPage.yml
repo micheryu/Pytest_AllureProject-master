@@ -1,0 +1,26 @@
+approvesPage:
+  dec: "待我审批列表"
+  parameters:
+    - url:
+        approvers_list: /pivot-ehr/task/approvesPage
+      data: {
+        "pageNum": 1,
+        "pageSize": 10,
+        "cpo": {
+          "queryParam": "",
+          "colorSign": [],
+          "workflowType": []
+        },
+        "employeeId": 0,
+        "endDate": "",
+        "startDate": ""
+      }
+
+
+      header: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 dingtalk-win/1.0.0 nw(0.14.7) DingTalk(5.0.6-Release.1) Mojo/1.0.0 Native AppType(release)",
+        "Accept": "application/json, text/plain, */*",
+        "platfrom": "ding",
+        "Content-Type": "application/json;charset=UTF-8"
+
+      }

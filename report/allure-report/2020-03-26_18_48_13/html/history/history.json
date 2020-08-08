@@ -1,0 +1,195 @@
+{
+  "e82b4c1cdbc95ea6a28c8ce8cfc3f543" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "682718c66d52c427",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219693708,
+        "stop" : 1585219693709,
+        "duration" : 1
+      }
+    } ]
+  },
+  "aa2b41448b608952318fe201e157fda8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57e0dc17781ac53a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1585219695277,
+        "stop" : 1585219695277,
+        "duration" : 0
+      }
+    } ]
+  },
+  "db8602fd1edcfa320e0b121a9e211801" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e280fd83f9b087fa",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'x' in 'hello'",
+      "time" : {
+        "start" : 1585219693638,
+        "stop" : 1585219693708,
+        "duration" : 70
+      }
+    } ]
+  },
+  "502050747b00f21aa23ea7257962af13" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f60015f6c080098",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219695278,
+        "stop" : 1585219703726,
+        "duration" : 8448
+      }
+    } ]
+  },
+  "579cb0985a38a9bce6f90319ade09eff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f6c3feb08febddd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219703731,
+        "stop" : 1585219706282,
+        "duration" : 2551
+      }
+    } ]
+  },
+  "6d7020c61cbb81427efce778e79f84e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8a7db7a9d8d8940",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219695275,
+        "stop" : 1585219695276,
+        "duration" : 1
+      }
+    } ]
+  },
+  "cf976b84fd91b3acf1b9cc4fa83448aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a736d7b4b853c54a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219693636,
+        "stop" : 1585219693637,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bf89594abbd1be17a5b3e95ac8edd8ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1d88b70c453d454",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219693709,
+        "stop" : 1585219695257,
+        "duration" : 1548
+      }
+    } ]
+  },
+  "a96b62d5143c6dee9ad4afe0c1b52625" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dba0e5d5e95d32a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585219693620,
+        "stop" : 1585219693634,
+        "duration" : 14
+      }
+    } ]
+  },
+  "dc13f04a60fd2cff91c28cae7f54c401" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0d90205b12e6790",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'success' == 'failed'\n  - success\n  + failed",
+      "time" : {
+        "start" : 1585219695263,
+        "stop" : 1585219695271,
+        "duration" : 8
+      }
+    } ]
+  }
+}

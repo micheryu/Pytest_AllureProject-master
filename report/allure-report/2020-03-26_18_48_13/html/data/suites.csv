@@ -1,0 +1,77 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Thu Mar 26 18:48:15 CST 2020","Thu Mar 26 18:48:15 CST 2020","0","","testcases","","testcases","test_buycar.TestShoppingTrolley.test_delete_shopping_trolley","test_buycar.TestShoppingTrolley.test_delete_shopping_trolley","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"
+"passed","Thu Mar 26 18:48:15 CST 2020","Thu Mar 26 18:48:23 CST 2020","8448","","testcases","","testcases","test_search.TestCase.testcase_01","test_search.TestCase.testcase_01","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"
+"passed","Thu Mar 26 18:48:23 CST 2020","Thu Mar 26 18:48:26 CST 2020","2551","","testcases","","testcases","test_search.TestCase.testcase_02","test_search.TestCase.testcase_02","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"
+"passed","Thu Mar 26 18:48:13 CST 2020","Thu Mar 26 18:48:13 CST 2020","14","","testcases","","testcases","test_Add.test_math.test_add","test_Add.test_math.test_add","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"
+"failed","Thu Mar 26 18:48:13 CST 2020","Thu Mar 26 18:48:13 CST 2020","70","","testcases","","testcases","test_allure.test_02","test_allure.test_02","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"
+"passed","Thu Mar 26 18:48:13 CST 2020","Thu Mar 26 18:48:15 CST 2020","1548","","testcases","","testcases","test_approvePage.Test_login.test_login_01","test_approvePage.Test_login.test_login_01","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+
+
+
+        测试获取登陆状态
+        :param action:
+        :return:
+        "
+"passed","Thu Mar 26 18:48:15 CST 2020","Thu Mar 26 18:48:15 CST 2020","1","","testcases","","testcases","test_buycar.TestShoppingTrolley.test_edit_shopping_trolley","test_buycar.TestShoppingTrolley.test_edit_shopping_trolley","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"
+"passed","Thu Mar 26 18:48:13 CST 2020","Thu Mar 26 18:48:13 CST 2020","1","","testcases","","testcases","test_allure.test_01","test_allure.test_01","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+
+
+
+    用例描述：Test case 01
+    :return: True or False
+    "
+"passed","Thu Mar 26 18:48:13 CST 2020","Thu Mar 26 18:48:13 CST 2020","1","","testcases","","testcases","test_allure.test_add","test_allure.test_add","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+
+
+
+    用例描述：测试add（）返回结果是否一致
+    :return:
+    "
+"failed","Thu Mar 26 18:48:15 CST 2020","Thu Mar 26 18:48:15 CST 2020","8","","testcases","","testcases","test_buycar.TestShoppingTrolley.test_add_shopping_trolley","test_buycar.TestShoppingTrolley.test_add_shopping_trolley","
+
+Author:micheryu
+Date:2020/3/20
+Motto: 能用脑，就别动手~
+"

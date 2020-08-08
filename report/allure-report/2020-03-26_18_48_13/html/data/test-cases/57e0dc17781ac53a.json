@@ -1,0 +1,69 @@
+{
+  "uid" : "57e0dc17781ac53a",
+  "name" : "test_buycar.TestShoppingTrolley.test_delete_shopping_trolley",
+  "fullName" : "testcases.test_buycar.TestShoppingTrolley.test_delete_shopping_trolley",
+  "historyId" : "aa2b41448b608952318fe201e157fda8",
+  "time" : {
+    "start" : 1585219695277,
+    "stop" : 1585219695277,
+    "duration" : 0
+  },
+  "description" : "\n\nAuthor:micheryu\nDate:2020/3/20\nMotto: 能用脑，就别动手~\n",
+  "descriptionHtml" : "<p>Author:micheryu\nDate:2020/3/20\nMotto: 能用脑，就别动手~</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 本次不执行",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "购物车功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "yubaoqiangwb10154"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "删除购物车中商品"
+  }, {
+    "name" : "thread",
+    "value" : "2624-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_buycar.TestShoppingTrolley.test_delete_shopping_trolley"
+  }, {
+    "name" : "package",
+    "value" : "testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57e0dc17781ac53a.json",
+  "parameterValues" : [ ]
+}

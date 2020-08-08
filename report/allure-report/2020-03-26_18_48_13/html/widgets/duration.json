@@ -1,0 +1,101 @@
+[ {
+  "uid" : "57e0dc17781ac53a",
+  "name" : "test_buycar.TestShoppingTrolley.test_delete_shopping_trolley",
+  "time" : {
+    "start" : 1585219695277,
+    "stop" : 1585219695277,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6f60015f6c080098",
+  "name" : "test_search.TestCase.testcase_01",
+  "time" : {
+    "start" : 1585219695278,
+    "stop" : 1585219703726,
+    "duration" : 8448
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f6c3feb08febddd",
+  "name" : "test_search.TestCase.testcase_02",
+  "time" : {
+    "start" : 1585219703731,
+    "stop" : 1585219706282,
+    "duration" : 2551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dba0e5d5e95d32a6",
+  "name" : "test_Add.test_math.test_add",
+  "time" : {
+    "start" : 1585219693620,
+    "stop" : 1585219693634,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e280fd83f9b087fa",
+  "name" : "test_allure.test_02",
+  "time" : {
+    "start" : 1585219693638,
+    "stop" : 1585219693708,
+    "duration" : 70
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1d88b70c453d454",
+  "name" : "test_approvePage.Test_login.test_login_01",
+  "time" : {
+    "start" : 1585219693709,
+    "stop" : 1585219695257,
+    "duration" : 1548
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "e8a7db7a9d8d8940",
+  "name" : "test_buycar.TestShoppingTrolley.test_edit_shopping_trolley",
+  "time" : {
+    "start" : 1585219695275,
+    "stop" : 1585219695276,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a736d7b4b853c54a",
+  "name" : "test_allure.test_01",
+  "time" : {
+    "start" : 1585219693636,
+    "stop" : 1585219693637,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "682718c66d52c427",
+  "name" : "test_allure.test_add",
+  "time" : {
+    "start" : 1585219693708,
+    "stop" : 1585219693709,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0d90205b12e6790",
+  "name" : "test_buycar.TestShoppingTrolley.test_add_shopping_trolley",
+  "time" : {
+    "start" : 1585219695263,
+    "stop" : 1585219695271,
+    "duration" : 8
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
