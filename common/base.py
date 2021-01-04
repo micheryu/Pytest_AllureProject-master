@@ -47,7 +47,7 @@ class BasePage():
         try:
             self.driver.get(url)
         except:
-            raise Exception("打开%s 页面识别" % url)
+            raise Exception("打开%s 页面识别有误" % url)
 
     def find_element(self, page_name, type, location):
         try:

@@ -32,8 +32,8 @@ def run(time):
     htmldir = rootpath + r'\html'
     os.mkdir(xmldir)
     os.mkdir(htmldir)
-    args = ['-s', '-q', '--alluredir', xmldir]
-    # pytest.main(['-s', 'test_search.py', '--alluredir', xmldir]
+    # args = ['-s', '-q', '--alluredir', xmldir]
+    args = ['-s', 'test_search.py', '--alluredir', xmldir]
     pytest.main(args)
     cmd = 'allure generate {0} -o {1} --clean'.format(xmldir, htmldir)
     # os.system('allure generate {0} -o {1} --clean'.format(xmldir, htmldir))
