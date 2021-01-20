@@ -1,4 +1,0 @@
-2020-03-26 17:00:58,767 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
-2020-03-26 17:06:11,575 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
-2020-03-26 17:07:33,937 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
-2020-03-26 17:08:38,273 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
