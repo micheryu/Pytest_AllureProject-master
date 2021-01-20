@@ -7,12 +7,17 @@ Date:2020/3/11
 Motto: 能用脑，就别动手~
 """
 
+import allure
+import os
+import pytest
+import time
+import unittest
+
 # from selenium import webdriver
 # from selenium.webdriver.common.by import By
 from common.base import *
-from report.SendReport import SendReportEmail
 from log.logconf import logconf
-import pytest, unittest, allure, time, os
+from report.SendReport import SendReportEmail
 
 
 # class GetDriver():

@@ -469,3 +469,16 @@
 2021-01-04 20:20:46,115 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
 2021-01-04 20:20:47,120 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
 2021-01-04 20:20:50,197 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-04_20_20_34\report.rar
+2021-01-20 20:09:39,268 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-20 20:09:39,312 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-20 20:09:44,556 - test_search.py - simpleExample - 95 - INFO -初始化Chrome浏览器对象
+2021-01-20 20:09:44,606 - test_search.py - simpleExample - 103 - INFO -打开网页：http://www.so.com
+2021-01-20 20:09:48,007 - test_search.py - simpleExample - 117 - INFO -执行输入关键字
+2021-01-20 20:09:48,062 - test_search.py - simpleExample - 120 - INFO -执行点击按钮
+2021-01-20 20:09:49,298 - test_search.py - simpleExample - 107 - INFO -浏览器休眠1s
+2021-01-20 20:09:50,306 - test_search.py - simpleExample - 103 - INFO -打开网页：http://www.so.com
+2021-01-20 20:09:50,679 - test_search.py - simpleExample - 127 - INFO -执行输入关键字
+2021-01-20 20:09:50,722 - test_search.py - simpleExample - 130 - INFO -执行点击按钮
+2021-01-20 20:09:51,467 - test_search.py - simpleExample - 107 - INFO -浏览器休眠1s
+2021-01-20 20:09:52,477 - test_search.py - simpleExample - 99 - INFO -测试结束，关闭浏览器
+2021-01-20 20:09:55,297 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-20_20_09_39\report.rar

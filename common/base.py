@@ -10,8 +10,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-class GetDriver():
-    '''获取浏览器驱动'''
+class GetDriver:
+    """获取浏览器驱动"""
 
     def __init__(self, browser_name):
         self.driver = self.__get_driver(browser_name)
@@ -36,8 +36,8 @@ class GetDriver():
 #     GetDriver('chrome')
 
 
-class BasePage():
-    '''页面基类'''
+class BasePage:
+    """页面基类"""
 
     def __init__(self, driver):
 
@@ -59,7 +59,7 @@ class BasePage():
 
 
 class HomePage(BasePage):
-    '''首页元素与操作'''
+    """首页元素与操作"""
 
     def input(self, page_name, type, location):
         # input_element = self.find_element(**HomePageResource().input)
