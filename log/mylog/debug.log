@@ -1,0 +1,497 @@
+2020-03-25 18:58:43,760 - Run.py - simpleExample - 20 - INFO -创建按时间生成测试报告文件夹
+2020-03-25 18:58:43,768 - Run.py - simpleExample - 26 - INFO -执行pytest.main方法
+2020-03-25 18:58:44,074 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-25 18:58:49,259 - test_P.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-25 18:58:49,268 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-25 18:58:49,833 - test_P.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-25 18:58:49,943 - test_P.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-25 18:58:50,210 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-25 18:58:51,225 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-25 18:58:51,362 - test_P.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-25 18:58:51,435 - test_P.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-25 18:58:51,606 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-25 18:58:52,614 - test_P.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-25 18:58:56,975 - Run.py - simpleExample - 29 - INFO -美化测试报告
+2020-03-25 18:58:59,396 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-25_18_58_43\report.rar
+2020-03-25 18:59:58,393 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-25 18:59:58,393 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-25 19:02:35,313 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-25 19:02:35,313 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-25 19:02:35,613 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-25 19:02:40,768 - test_P.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-25 19:02:40,776 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-25 19:02:41,348 - test_P.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-25 19:02:41,408 - test_P.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-25 19:02:41,669 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-25 19:02:42,684 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-25 19:02:42,815 - test_P.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-25 19:02:42,876 - test_P.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-25 19:02:43,043 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-25 19:02:44,050 - test_P.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-25 19:02:46,429 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-25_19_02_35\report.rar
+2020-03-25 19:05:02,949 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-25 19:05:02,949 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-25 19:05:03,248 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-25 19:05:08,357 - test_P.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-25 19:05:08,365 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-25 19:05:08,860 - test_P.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-25 19:05:08,938 - test_P.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-25 19:05:09,256 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-25 19:05:10,266 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-25 19:05:10,404 - test_P.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-25 19:05:10,485 - test_P.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-25 19:05:10,628 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-25 19:05:11,635 - test_P.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-25 19:05:14,117 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-25_19_05_02\report.rar
+2020-03-26 10:42:59,166 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 10:47:58,850 - run.py - simpleExample - 32 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 10:54:00,221 - run.py - simpleExample - 32 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 10:54:00,221 - run.py - simpleExample - 39 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 10:54:00,817 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 10:54:05,966 - test_P.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 10:54:05,974 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 10:54:07,392 - test_P.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 10:54:07,450 - test_P.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 10:54:08,728 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 10:54:09,740 - test_P.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 10:54:10,391 - test_P.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 10:54:10,451 - test_P.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 10:54:11,608 - test_P.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 10:54:12,620 - test_P.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 10:54:15,304 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成report\allure-report\2020-03-26_10_54_00\report.rar
+2020-03-26 11:04:30,438 - run.py - simpleExample - 32 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 11:04:30,439 - run.py - simpleExample - 39 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 11:04:30,857 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 11:04:36,100 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 11:04:36,108 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 11:04:36,882 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 11:04:36,946 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 11:04:38,099 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 11:04:39,123 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 11:04:39,395 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 11:04:39,464 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 11:04:40,555 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 11:04:41,563 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 11:04:44,576 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成report\allure-report\2020-03-26_11_04_30\report.rar
+2020-03-26 11:13:47,084 - run.py - simpleExample - 32 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 11:13:47,084 - run.py - simpleExample - 39 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 11:13:47,625 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 11:13:52,846 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 11:13:52,854 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 11:13:53,667 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 11:13:53,729 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 11:13:54,697 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 11:13:55,708 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 11:13:56,006 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 11:13:56,062 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 11:13:57,016 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 11:13:58,026 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 11:14:00,367 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成report\allure-report\2020-03-26_11_13_47\report.rar
+2020-03-26 14:48:40,019 - run.py - simpleExample - 30 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 14:48:41,562 - run.py - simpleExample - 37 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 14:48:50,177 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 14:49:44,046 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 14:49:46,095 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 14:49:49,708 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 14:49:53,374 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 14:49:58,467 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 14:50:02,153 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 14:50:05,360 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 14:50:08,542 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 14:50:12,599 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 14:50:16,194 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 15:08:58,063 - run.py - simpleExample - 30 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:09:01,029 - run.py - simpleExample - 37 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 15:09:11,705 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 15:11:43,931 - run.py - simpleExample - 30 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:11:45,041 - run.py - simpleExample - 37 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 15:26:41,058 - run.py - simpleExample - 30 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:26:41,058 - run.py - simpleExample - 37 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 15:26:41,807 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 15:26:47,024 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 15:26:47,035 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 15:26:48,222 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 15:26:48,290 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 15:26:49,506 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 15:26:50,518 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 15:26:51,063 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 15:26:51,119 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 15:26:52,116 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 15:26:53,126 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 15:26:55,574 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成report\allure-report\2020-03-26_15_26_41\report.rar
+2020-03-26 15:30:07,528 - run.py - simpleExample - 30 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:30:07,528 - run.py - simpleExample - 37 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 15:30:08,420 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 15:30:13,611 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 15:30:13,619 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 15:30:15,407 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 15:30:15,459 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 15:30:16,533 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 15:30:17,548 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 15:30:18,196 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 15:30:18,270 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 15:30:19,164 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 15:30:20,176 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 15:30:22,731 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成report\allure-report\2020-03-26_15_30_07\report.rar
+2020-03-26 15:34:58,471 - run.py - simpleExample - 30 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:34:58,472 - run.py - simpleExample - 37 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 15:37:27,475 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:38:47,658 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 15:38:47,659 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 15:38:47,973 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 15:38:53,211 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 15:38:53,219 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 15:38:53,855 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 15:38:53,924 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 15:38:55,130 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 15:38:56,149 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 15:38:56,418 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 15:38:56,481 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 15:38:57,418 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 15:38:58,445 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 15:39:00,769 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_15_38_47\report.rar
+2020-03-26 16:25:39,867 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:27:43,175 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:33:42,586 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:35:04,153 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:35:14,106 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:36:41,240 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:39:34,072 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 16:39:34,072 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 16:39:34,285 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:39:34,583 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 16:39:39,886 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 16:39:39,898 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 16:39:40,809 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 16:39:40,872 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 16:39:45,797 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 16:39:46,806 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 16:39:47,202 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 16:39:47,278 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 16:39:48,252 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 16:39:49,278 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 16:39:51,586 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_16_39_34\report.rar
+2020-03-26 16:55:28,934 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 16:55:28,935 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 16:55:29,114 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:55:31,896 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_16_55_28\report.rar
+2020-03-26 16:56:23,319 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 16:56:23,319 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 16:56:23,498 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:56:25,885 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_16_56_23\report.rar
+2020-03-26 16:59:07,575 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 16:59:07,576 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 16:59:07,758 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:59:10,172 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_16_59_07\report.rar
+2020-03-26 16:59:54,854 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 16:59:54,854 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 16:59:55,036 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 16:59:57,439 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_16_59_54\report.rar
+2020-03-26 17:00:58,172 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 17:00:58,172 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 17:00:58,360 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:00:58,767 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
+2020-03-26 17:01:00,988 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_17_00_58\report.rar
+2020-03-26 17:03:46,573 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:06:10,533 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 17:06:10,533 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 17:06:10,898 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:06:11,575 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
+2020-03-26 17:07:32,888 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 17:07:32,889 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 17:07:33,251 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:07:33,937 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
+2020-03-26 17:08:37,235 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 17:08:37,235 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 17:08:37,597 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:08:38,273 - Assert.py - simpleExample - 30 - ERROR -StatusCode error,expected_code is 200,statusCode is 400
+2020-03-26 17:11:16,951 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:11:45,861 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:12:38,911 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:13:03,184 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:13:33,334 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:13:37,860 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:14:31,756 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:17:52,550 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:19:40,152 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:21:17,923 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:23:02,751 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:24:02,640 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:32:06,149 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:34:05,039 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:34:28,458 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:47:57,379 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:47:57,384 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 17:49:37,199 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:49:37,204 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 17:49:42,353 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:49:42,357 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 17:50:06,141 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:50:06,146 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 17:59:41,023 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 17:59:41,028 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:00:36,573 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:00:36,581 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:02:28,663 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:02:28,664 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:02:29,032 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:02:29,049 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:04:55,985 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:04:55,989 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:06:34,253 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:06:34,258 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:07:01,294 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:07:01,299 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:08:45,038 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:08:45,038 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:08:45,407 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:08:45,424 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:09:15,407 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:09:15,408 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:09:15,615 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:09:15,620 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:09:15,962 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:09:22,698 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:09:22,709 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:09:24,832 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:09:24,917 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:09:26,621 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:09:27,630 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:09:28,001 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:09:28,077 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:09:29,447 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:09:30,460 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:09:33,114 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_09_15\report.rar
+2020-03-26 18:12:34,637 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:12:34,637 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:12:34,843 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:12:34,848 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:12:35,152 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:12:42,041 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:12:42,050 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:12:42,954 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:12:43,037 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:12:44,328 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:12:45,341 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:12:45,977 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:12:46,075 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:12:47,035 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:12:48,048 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:12:50,515 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_12_34\report.rar
+2020-03-26 18:15:37,903 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:15:37,903 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:15:38,116 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:15:38,121 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:15:38,428 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:15:45,312 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:15:45,323 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:15:46,200 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:15:46,264 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:15:47,484 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:15:48,494 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:15:49,116 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:15:49,182 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:15:50,294 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:15:51,312 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:15:53,848 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_15_37\report.rar
+2020-03-26 18:23:38,722 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:23:38,723 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:23:38,967 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:23:38,972 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:23:39,380 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:23:46,211 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:23:46,220 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:23:47,216 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:23:47,288 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:23:48,641 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:23:49,654 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:23:50,356 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:23:50,425 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:23:51,625 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:23:52,635 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:23:55,298 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_23_38\report.rar
+2020-03-26 18:24:25,367 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:24:25,367 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:24:25,789 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:24:25,805 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:24:26,362 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:24:33,264 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:24:33,285 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:24:34,177 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:24:34,270 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:24:35,495 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:24:36,520 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:24:37,170 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:24:37,271 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:24:38,284 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:24:39,312 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:24:41,724 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_24_25\report.rar
+2020-03-26 18:25:12,730 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:25:12,730 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:25:12,942 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:25:12,947 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:25:13,240 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:25:20,155 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:25:20,169 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:25:21,097 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:25:21,170 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:25:22,586 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:25:23,599 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:25:23,956 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:25:24,049 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:25:25,062 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:25:26,069 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:25:28,646 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_25_12\report.rar
+2020-03-26 18:33:18,758 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:33:18,758 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:33:18,972 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:33:18,978 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:33:19,276 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:33:24,975 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:33:24,986 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:33:25,911 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:33:25,993 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:33:27,367 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:33:28,378 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:33:29,106 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:33:29,176 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:33:30,192 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:33:31,206 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:33:33,581 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_33_18\report.rar
+2020-03-26 18:34:50,659 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:34:50,664 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:35:01,798 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:35:01,803 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:39:08,761 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:39:08,762 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:39:08,974 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:39:08,980 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:39:09,281 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:39:16,156 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:39:16,170 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:39:17,085 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:39:17,164 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:39:18,608 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:39:19,622 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:39:20,268 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:39:20,358 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:39:21,515 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:39:22,536 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:39:24,851 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_39_08\report.rar
+2020-03-26 18:42:55,663 - Run.py - simpleExample - 54 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:42:55,664 - Run.py - simpleExample - 60 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:42:55,886 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:42:55,890 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:42:56,206 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:43:03,135 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:43:03,144 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:43:04,015 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:43:04,091 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:43:05,438 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:43:06,451 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:43:06,829 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:43:06,904 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:43:07,967 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:43:08,990 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:43:11,554 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_42_55\report.rar
+2020-03-26 18:48:13,122 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\pycharm\PycharmProject\Study\Pytest_AllureProject\config\config.ini
+2020-03-26 18:48:13,123 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2020-03-26 18:48:13,326 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/Basic.yml
+2020-03-26 18:48:13,331 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\pycharm\PycharmProject\Study\Pytest_AllureProject/Params/Params/approvesPage.yml
+2020-03-26 18:48:13,634 - test_Add.py - simpleExample - 28 - INFO -计算4+2
+2020-03-26 18:48:20,401 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2020-03-26 18:48:20,411 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:48:21,281 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2020-03-26 18:48:21,348 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2020-03-26 18:48:22,726 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:48:23,748 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2020-03-26 18:48:24,133 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2020-03-26 18:48:24,217 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2020-03-26 18:48:25,280 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2020-03-26 18:48:26,303 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2020-03-26 18:48:28,659 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\pycharm\PycharmProject\Study\Pytest_AllureProject\report\allure-report\2020-03-26_18_48_13\report.rar
+2021-01-02 23:06:37,294 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:06:37,295 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:06:37,413 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_06_37\report.rar
+2021-01-02 23:11:10,057 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:11:10,057 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:11:10,145 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_11_10\report.rar
+2021-01-02 23:22:02,688 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:22:02,688 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:22:03,096 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_22_02\report.rar
+2021-01-02 23:24:19,903 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:24:19,903 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:24:20,266 - params.py - simpleExample - 30 - INFO -解析yaml,Path: D:\Study\Pytest_AllureProject-master/Params/Params/Basic.yml
+2021-01-02 23:24:20,270 - params.py - simpleExample - 44 - INFO -解析yaml,path: D:\Study\Pytest_AllureProject-master/Params/Params/approvesPage.yml
+2021-01-02 23:24:20,440 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_24_19\report.rar
+2021-01-02 23:25:52,860 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:25:52,860 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:25:53,034 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_25_52\report.rar
+2021-01-02 23:26:30,229 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:26:30,230 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:26:30,568 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_26_30\report.rar
+2021-01-02 23:34:33,760 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:34:33,760 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:34:37,711 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2021-01-02 23:34:37,717 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2021-01-02 23:34:40,902 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2021-01-02 23:34:40,949 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2021-01-02 23:34:41,945 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2021-01-02 23:34:42,952 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2021-01-02 23:34:43,104 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2021-01-02 23:34:43,160 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2021-01-02 23:34:43,927 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2021-01-02 23:34:44,932 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2021-01-02 23:34:45,051 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_34_33\report.rar
+2021-01-02 23:45:06,290 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-02 23:45:06,290 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-02 23:45:11,492 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2021-01-02 23:45:11,492 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2021-01-02 23:45:14,688 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2021-01-02 23:45:14,740 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2021-01-02 23:45:15,920 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2021-01-02 23:45:16,926 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2021-01-02 23:45:17,074 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2021-01-02 23:45:17,116 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2021-01-02 23:45:17,824 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2021-01-02 23:45:18,831 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2021-01-02 23:45:21,641 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-02_23_45_06\report.rar
+2021-01-04 20:20:34,468 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-04 20:20:34,478 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-04 20:20:39,500 - test_search.py - simpleExample - 90 - INFO -初始化Chrome浏览器对象
+2021-01-04 20:20:39,500 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2021-01-04 20:20:42,783 - test_search.py - simpleExample - 112 - INFO -执行输入关键字
+2021-01-04 20:20:42,827 - test_search.py - simpleExample - 115 - INFO -执行点击按钮
+2021-01-04 20:20:44,048 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2021-01-04 20:20:45,048 - test_search.py - simpleExample - 98 - INFO -打开网页：http://www.so.com
+2021-01-04 20:20:45,216 - test_search.py - simpleExample - 122 - INFO -执行输入关键字
+2021-01-04 20:20:45,259 - test_search.py - simpleExample - 125 - INFO -执行点击按钮
+2021-01-04 20:20:46,115 - test_search.py - simpleExample - 102 - INFO -浏览器休眠1s
+2021-01-04 20:20:47,120 - test_search.py - simpleExample - 94 - INFO -测试结束，关闭浏览器
+2021-01-04 20:20:50,197 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-04_20_20_34\report.rar
+2021-01-20 20:09:39,268 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-20 20:09:39,312 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-20 20:09:44,556 - test_search.py - simpleExample - 95 - INFO -初始化Chrome浏览器对象
+2021-01-20 20:09:44,606 - test_search.py - simpleExample - 103 - INFO -打开网页：http://www.so.com
+2021-01-20 20:09:48,007 - test_search.py - simpleExample - 117 - INFO -执行输入关键字
+2021-01-20 20:09:48,062 - test_search.py - simpleExample - 120 - INFO -执行点击按钮
+2021-01-20 20:09:49,298 - test_search.py - simpleExample - 107 - INFO -浏览器休眠1s
+2021-01-20 20:09:50,306 - test_search.py - simpleExample - 103 - INFO -打开网页：http://www.so.com
+2021-01-20 20:09:50,679 - test_search.py - simpleExample - 127 - INFO -执行输入关键字
+2021-01-20 20:09:50,722 - test_search.py - simpleExample - 130 - INFO -执行点击按钮
+2021-01-20 20:09:51,467 - test_search.py - simpleExample - 107 - INFO -浏览器休眠1s
+2021-01-20 20:09:52,477 - test_search.py - simpleExample - 99 - INFO -测试结束，关闭浏览器
+2021-01-20 20:09:55,297 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-20_20_09_39\report.rar
+2021-01-20 20:34:05,294 - Run.py - simpleExample - 23 - INFO -初始化配置文件，path= D:\Study\Pytest_AllureProject-master\config\config.ini
+2021-01-20 20:34:05,294 - Run.py - simpleExample - 29 - INFO -创建按时间生成测试报告文件夹
+2021-01-20 20:34:09,033 - test_search.py - simpleExample - 95 - INFO -初始化Chrome浏览器对象
+2021-01-20 20:34:09,039 - test_search.py - simpleExample - 103 - INFO -打开网页：http://www.so.com
+2021-01-20 20:34:12,484 - test_search.py - simpleExample - 117 - INFO -执行输入关键字
+2021-01-20 20:34:12,541 - test_search.py - simpleExample - 120 - INFO -执行点击按钮
+2021-01-20 20:34:13,792 - test_search.py - simpleExample - 107 - INFO -浏览器休眠1s
+2021-01-20 20:34:14,799 - test_search.py - simpleExample - 103 - INFO -打开网页：http://www.so.com
+2021-01-20 20:34:15,157 - test_search.py - simpleExample - 127 - INFO -执行输入关键字
+2021-01-20 20:34:15,206 - test_search.py - simpleExample - 130 - INFO -执行点击按钮
+2021-01-20 20:34:16,071 - test_search.py - simpleExample - 107 - INFO -浏览器休眠1s
+2021-01-20 20:34:17,078 - test_search.py - simpleExample - 99 - INFO -测试结束，关闭浏览器
+2021-01-20 20:34:19,151 - SendReport.py - simpleExample - 75 - INFO -测试报告打包完成D:\Study\Pytest_AllureProject-master\report\allure-report\2021-01-20_20_34_05\report.rar
